@@ -1,7 +1,7 @@
 
 pragma solidity ^0.4.0;
 
-//Choose an NGO and set a campaign target of Ethers you would like to donate 
+//User selects an NGO and sets a campaign target of either Bitcoin or Ethers they would like to donate 
 //If successful, 100% of the funds are donated to the NGO.
 //If the objective of the campaign is not achieved, everyone is reimbursed.
 
