@@ -35,7 +35,7 @@ contract Loonfund {
         if(now > campaignStopDate)
         {
             refundContributors();
-            if (!creator.send(campaignGoal/2))
+            if (!creator.send(campaignGoal/1))
             {
                 throw;
             }
