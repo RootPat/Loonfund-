@@ -8,4 +8,4 @@ The user can create a fundraiser for either a charity or an individual cause:
 
 
 Loonfund uses bootstraps framework and an Ethereum compatible JavaScript API "Web3," that allows us to communicate with the blockchain.  
-Nodejs 
+
