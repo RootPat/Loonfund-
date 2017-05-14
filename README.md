@@ -19,7 +19,7 @@ Since it is build on Ethereum, loonfund does not rely on traditional client-serv
 
 There are two categories of users on Loonfund:
 
-- Borrower. A user who borrows money from another user. A person in  need of capital who launches a fundraiser. Should be able to convert real currency to Loonfund currency. I haven't currently found a solution to converting cash into bitcoin. Bitcoin is invaluable to this operation. Having a single, digitally transferable currency will enable seamless transfer of funds to developing countries. 
+-Lendee. The lendee' is in need of capital and launches a fundraiser, they can they receive money from other users. The lendee Should be able to convert real currency to Loonfund currency. Loonfund uses BitPay allows lendees to accept payments in bitcoin and then transfer the funds directly to their bank account. Bitcoin is invaluable to this operation. Having a single, digitally transferable currency will enable seamless transfer of funds to developing countries. 
 
 – Lender. A user who lends money to a borrower. Normally, this would be
 a person with access to excess capital, motivated by philantropy.
