@@ -6,8 +6,8 @@ The user can create a fundraiser for either a charity or an individual cause:
   All funds raised from Certified Charity campaigns are sent directly to the charity and donors receive tax deductible receipts for their   donations.
 2) If they opt for an individual cause, they can raise money for a private cause. This could include medical bills, a friend’s tuition, a group volunteer trip or any personal cause acceptable on GoFundMe. For this option, the funds are transferred directly to the party organizing the fundraiser.  
 ----
-
 Loonfund  Architecture
+
 Loonfund consists of (a) a web interface, and (b) a
 network of Ethereum nodes. The web interface is used to interact with the smart
 contracts, using a javascript compatible api Web3. A user is assigned a public key in the web interface which will allow them to identify themselves.
@@ -22,3 +22,7 @@ There are two categories of users on Loonfund:
 - Borrower. A user who borrows money from another user. A person in  need of capital who launches a fundraiser.
 – Lender. A user who lends money to a borrower. Normally, this would be
 a person with access to excess capital, motivated by philantropy.
+
+
+Advantages of LoonFund 
+ The main advantage of Loonfund is that it provides an unalterable history of previous transactions. This includes users’ lending history, as well as the history of all project. The transparent nature of the system will make Loonfund more attractive than its centralized competitors. 
