@@ -1,6 +1,6 @@
 # Loonfund-
 Loonfund is a peer-to-peer fundraising platform dedicated exclusively to charitable giving. Loonfund uses a decentralized, crowdfunding model that allows users to send payments online without the interference of any 3rd parties. Traditional fundraising services and crowdfunding platforms collect some sort of transaction charge. Kickstarter, for example, charges a 5% transaction fee plus an additional 3-5% for payment processing. GoFundMe's fee is 5% from each donation you receive plus a payment processor fee of 2.9% + $0.30 per donation.
-Loonfund is an open source, non profit aimed at providing the seamless transfer of money to needing individuals and causes. There are 0 transaction fees and the funds are transferrered directly to the cause. 
+Loonfund is an open source, non profit aimed at providing the seamless transfer of money to needing individuals and causes. It uses distributed consensus to validate transactions and add them to Ethereum's blockchain, allowing for transparent and secure transactions. There are 0 transaction fees and the funds are transferrered directly to the cause. 
 The user can create a fundraiser for either a charity or an individual cause:
 1) If they opt for a charity, they can create a campaign to raise funds for a registered 501c3 non profit. For this option, the funds are   transferred directly to the charity organization.
   All funds raised from Certified Charity campaigns are sent directly to the charity and donors receive tax deductible receipts for their   donations.
@@ -19,10 +19,13 @@ Since it is build on Ethereum, loonfund does not rely on traditional client-serv
 
 There are two categories of users on Loonfund:
 
-- Borrower. A user who borrows money from another user. A person in  need of capital who launches a fundraiser.
+- Borrower. A user who borrows money from another user. A person in  need of capital who launches a fundraiser. Should be able to convert real currency to Loonfund currency. I haven't currently found a solution to converting cash into bitcoin. Bitcoin is invaluable to this operation. Having a single, digitally transferable currency will enable seamless transfer of funds to developing countries. 
 – Lender. A user who lends money to a borrower. Normally, this would be
 a person with access to excess capital, motivated by philantropy.
 
 
 Advantages of LoonFund 
  The main advantage of Loonfund is that it provides an unalterable history of previous transactions. This includes users’ lending history, as well as the history of all project. The transparent nature of the system will make Loonfund more attractive than its centralized competitors. 
+ 
+ 
+ 
