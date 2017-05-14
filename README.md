@@ -19,7 +19,7 @@ Since it is build on Ethereum, loonfund does not rely on traditional client-serv
 
 There are two categories of users on Loonfund:
 
--Lendee. The lendee' is in need of capital and launches a fundraiser, they can they receive money from other users. The lendee Should be able to convert real currency to Loonfund currency. Loonfund uses BitPay allows lendees to accept payments in bitcoin and then transfer the funds directly to their bank account. Bitcoin is invaluable to this operation. Having a single, digitally transferable currency will enable seamless transfer of funds to developing countries. 
+-Lendee. The lendee' is in need of capital and launches a fundraiser, they can they receive money from other users. The lendee Should be able to convert real currency to Loonfund currency, which will allow for easy use early on. Loonfund aso aims to accept bitcoin. I use BitPay to allow lendees to accept payments in bitcoin and then transfer the funds directly to their bank account. Bitcoin is invaluable to this operation. Having a single, digitally transferable currency will enable seamless transfer of funds to developing countries. 
 
 – Lender. A user who lends money to a borrower. Normally, this would be
 a person with access to excess capital, motivated by philantropy.
