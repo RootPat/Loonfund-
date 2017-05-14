@@ -26,7 +26,8 @@ a person with access to excess capital, motivated by philantropy.
 
 
 Advantages of LoonFund 
- The main advantage of Loonfund is that it provides an unalterable history of previous transactions. This includes users’ lending history, as well as the history of all project. The transparent nature of the system will make Loonfund more attractive than its centralized competitors. 
+ The main advantage of Loonfund is that it provides an unalterable history of previous transactions. 
+ This includes users’ lending history, as well as the history of all project. The transparent nature of the system will make Loonfund more attractive than its centralized competitors. 
  
  
  
