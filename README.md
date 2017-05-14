@@ -6,6 +6,7 @@ The user can create a fundraiser for either a charity or an individual cause:
   All funds raised from Certified Charity campaigns are sent directly to the charity and donors receive tax deductible receipts for their   donations.
 2) If they opt for an individual cause, they can raise money for a private cause. This could include medical bills, a friend’s tuition, a group volunteer trip or any personal cause acceptable on GoFundMe. For this option, the funds are transferred directly to the party organizing the fundraiser.  
 
+Each user account has an associated blockchain address. The amount of bitcoin and ether associated with each account will be displayed throughout the campaign. 
 
 Loonfund uses an Ethereum compatible JavaScript API "Web3" that allows us to communicate with the blockchain.  
 
