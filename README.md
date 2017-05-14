@@ -1,4 +1,4 @@
-# Loonfund-
+# Loonfund (name subject to change)-
 Loonfund is a peer-to-peer fundraising platform dedicated exclusively to charitable giving. Loonfund uses a decentralized, crowdfunding model that allows users to send payments online without the interference of any 3rd parties. Traditional fundraising services and crowdfunding platforms collect some sort of transaction charge. Kickstarter, for example, charges a 5% transaction fee plus an additional 3-5% for payment processing. GoFundMe's fee is 5% from each donation you receive plus a payment processor fee of 2.9% + $0.30 per donation.
 Loonfund is an open source, non profit aimed at providing the seamless transfer of money to needing individuals and causes. There are 0 transaction fees and the funds are transferrered directly to the cause. 
 The user can create a fundraiser for either a charity or an individual cause:
