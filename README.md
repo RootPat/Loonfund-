@@ -7,7 +7,7 @@ The web interface communicates with an Ethereum node running on the same
 machine. This requires the user to have a private key stored in the node, and to
 initially unlock their account by entering a password at the node.
 
-Since it is build on Ethereum, loonfund does not rely on traditional client-server architecture. The conventional backend -say php or mysql- is replaced with the ethereum blockchain. The web intereface then only includes client-side code. The back end is comprised of the smart contract.
+Since it is build on Ethereum, loonfund does not rely on traditional client-server architecture. The conventional backend is replaced with the ethereum blockchain. The web intereface then only includes client-side code. The back end is comprised of the smart contract.
 
 There are two categories of users on Loonfund:
 
